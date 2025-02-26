@@ -1,12 +1,12 @@
 {
     "name": "darker-modern-theme",
-    "displayName": "Default Dark Modern (Darker)",
+    "displayName": "Darker Modern",
     "description": "A darker variant of VS Code's default dark modern theme",
     "version": "0.0.1",
-    "publisher": "YourPublisherName",
+    "publisher": "Sango",
     "repository": {
         "type": "git",
-        "url": "https://github.com/YourUsername/darker-modern-theme"
+        "url": "https://github.com/moistp1ckle/darker-modern-theme"
     },
     "engines": {
         "vscode": "^1.75.0"
@@ -23,5 +23,11 @@
             }
         ]
     },
-    "license": "MIT"
+    "license": "MIT",
+    "keywords": ["theme", "dark theme", "dark", "modern", "darker"],
+    "galleryBanner": {
+        "color": "#0c0c0c",
+        "theme": "dark"
+    },
+    "icon": "icon.jpg"
 } 
