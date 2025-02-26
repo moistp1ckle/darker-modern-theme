@@ -17,9 +17,9 @@ A darker variant of VS Code's default dark modern theme, featuring deeper blacks
 4. Click the ... (More Actions) button at the top
 5. Select "Install from VSIX..."
 6. Choose the downloaded .vsix file
-7. Go to Settings → Color Theme (Ctrl+K Ctrl+T)
-8. Select "Darker Modern"
-![Extension Install](./images/Code_bvLIQYVU35.png)
+<p align="center">
+  <img src="./images/Code_bvLIQYVU35.png" alt="Extension Install">
+</p>
 
 ## Screenshots
 
